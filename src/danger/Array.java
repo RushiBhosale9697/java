@@ -12,6 +12,7 @@ public class Array {//sum 10 ahe ase char seprate
 					
 					//System.out.println("addition is "+ a[i]+"+"+ a[j]+"= "+(a[i]+a[j]));
 					System.out.println("{"+a[i]+","+a[j]+"}");
+					System.out.println("abc");
 				}
 			}
 		}
